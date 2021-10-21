@@ -1,0 +1,29 @@
+/* 
+the selector: a tag name;
+the declaration bloc {}
+*/
+
+div{ 
+	color: red;
+ }
+
+ h1{
+ 	font-size: 22px;
+ }
+
+.main-container {
+	border: 1px solid #000;
+	Width: 50%;
+}
+
+.color-yellow {
+	color: yellow;
+}
+
+#main {
+	font-style: italic;
+}
+
+p.main-container {
+	color: blue;
+}
